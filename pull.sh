@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 cd ~/repos/brain/
 git pull
 
